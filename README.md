@@ -23,3 +23,6 @@ The data consists of 1559 products across 10 stores in different cities. Also, c
 | Item_Outlet_Sales| Sales of product in particular store. This is the outcome variable to be predicted.|
 
 The aim of this project is to build a predictive model to predict the sales of each product at a particular outlet
+
+# Data Exploration and Preparation
+Data exploration consisted of treatment of missing values, removal of outliers and some feature engineering
